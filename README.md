@@ -1,6 +1,7 @@
 **Hi, I’m Jessica (@wleejess) - it's nice to meet you!**
 
 I'm a former researcher transitioning into software engineering, based in San Francisco.
+
 Studying Computer Science @ Oregon State University. Previously graduated with a B.S. in NanoEngineering and a minor in Chemistry.
 
 **Relevant Coursework:**
@@ -18,13 +19,13 @@ Data structures & Algorithms, Computer Networking, Computer Architecture & Assem
 
 ---
 
-**Projects I'm currently working on:**
+**Projects I'm working on:**
 
   🧪 Chemystery Resolver: _An extension that shows the chemical structure of the highlighted chemical name (IUPAC or common)._ 
 
-  🍃 Forestry Wellness Check: _A cross-platform application for surveying forest health._
+  🍃 Forestry Wellness Check: _A cross-platform application for surveying forest health._ ⟶ [Project Plan](https://skywired.notion.site/CS467-Forest-Wellness-Checkup-cdbd77536d5f48a9bf8fd56416e8a069)
 
-**Currently studying:**
+**Topics I'm studying:**
 
   📱 Mobile App Development
 
