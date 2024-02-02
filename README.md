@@ -16,7 +16,7 @@ Studying Computer Science @ Oregon State University. Previously graduated with a
 
 **A few projects I'm currently working on:**
 
-  🧪 Chemystery Resolver: _An extension that allows users to highlight a chemical name and see a pop up image of the chemical structure._ 
+  🧪 Chemystery Resolver: _An extension that shows the chemical structure of the highlighted chemical name (IUPAC or common)._ 
 
   🍃 Forestry Wellness Check: _A cross-platform application for surveying forest health._
 
