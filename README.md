@@ -2,7 +2,7 @@
 
 I'm a former researcher transitioning into software engineering, based in San Francisco.
 
-Studying Computer Science @ Oregon State University. Previously graduated with a B.S. in NanoEngineering and a minor in Chemistry.
+Studying Computer Science @ Oregon State University. Previously graduated with a B.S. in NanoEngineering from UC San Diego.
 
 **Relevant Coursework:**
 
