@@ -3,6 +3,10 @@
 I'm a former researcher transitioning into software engineering, based in San Francisco.
 Studying Computer Science @ Oregon State University. Previously graduated with a B.S. in NanoEngineering and a minor in Chemistry.
 
+**Relevant Coursework:**
+
+Data structures & Algorithms, Computer Networking, Computer Architecture & Assembly Language, Operating Systems, Databases
+
 **Languages / Tools / Technologies:**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -14,7 +18,7 @@ Studying Computer Science @ Oregon State University. Previously graduated with a
 
 ---
 
-**A few projects I'm currently working on:**
+**Projects I'm currently working on:**
 
   🧪 Chemystery Resolver: _An extension that shows the chemical structure of the highlighted chemical name (IUPAC or common)._ 
 
