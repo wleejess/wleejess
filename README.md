@@ -1,15 +1,13 @@
 **Hi, I’m Jessica (@wleejess) - it's nice to meet you!**
 
 I'm a former researcher transitioning into software engineering, based in San Francisco.
+- Studying Computer Science @ Oregon State University.<br/>
+- Graduated with a B.S. in NanoEngineering, minor in Chemistry from UC San Diego.
 
-Studying Computer Science @ Oregon State University. Previously graduated with a B.S. in NanoEngineering from UC San Diego.
-
-**Relevant Coursework:**
-
+**Relevant Coursework:** <br/>
 Data structures & Algorithms, Computer Networking, Computer Architecture & Assembly Language, Operating Systems, Databases
 
-**Languages / Tools / Technologies:**
-
+**Languages / Tools / Technologies:** <br/>
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
