@@ -9,12 +9,12 @@ Data structures & Algorithms, Computer Networking <br/>
 Computer Architecture & Assembly Language, Operating Systems, Databases
 
 **Languages / Tools / Technologies:** <br/>
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -25,8 +25,6 @@ Computer Architecture & Assembly Language, Operating Systems, Databases
   🍃 Forestry Wellness Check: _A cross-platform application for surveying forest health._ ⟶ [Project Plan](https://skywired.notion.site/CS467-Forest-Wellness-Checkup-cdbd77536d5f48a9bf8fd56416e8a069)
 
 **Topics I'm studying:**
-
-  📱 Mobile App Development
 
   ☁️ Cloud App Development
 
