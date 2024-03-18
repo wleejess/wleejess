@@ -6,7 +6,8 @@ I'm a former researcher transitioning into software engineering, based in San Fr
 
 **Relevant Coursework:** <br/>
 Data structures & Algorithms, Computer Networking <br/>
-Computer Architecture & Assembly Language, Operating Systems, Databases
+Computer Architecture & Assembly Language, Operating Systems, Databases <br/>
+Web Development (React, Node.js, HTML/CSS), Mobile App Development (Kotlin, Dart)
 
 **Languages / Tools / Technologies:** <br/>
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
