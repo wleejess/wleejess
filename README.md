@@ -19,17 +19,11 @@ Web Development (React, Node.js, HTML/CSS), Mobile App Development (Kotlin, Dart
 
 ---
 
-**Projects I'm working on:**
+**Projects I've worked on:**
 
   🧪 Chemystery Resolver: _An extension that shows the chemical structure of the highlighted chemical name (IUPAC or common)._ 
 
   🍃 Forestry Wellness Check: _A cross-platform application for surveying forest health._ ⟶ [Project Plan](https://skywired.notion.site/CS467-Forest-Wellness-Checkup-cdbd77536d5f48a9bf8fd56416e8a069)
-
-**Topics I'm studying:**
-
-  ☁️ Cloud App Development
-
-  🚀 Kubernetes
 
 --- 
 
