@@ -4,11 +4,6 @@ I'm a former researcher transitioning into software engineering, based in San Fr
 - B.S. in Computer Science from Oregon State University<br/>
 - B.S. in NanoEngineering, minor in Chemistry from UC San Diego
 
-**Relevant Coursework:** <br/>
-Data structures & Algorithms, Computer Networking <br/>
-Computer Architecture & Assembly Language, Operating Systems, Databases <br/>
-Web Development (React, Node.js, HTML/CSS), Mobile App Development (Kotlin, Dart), Cloud App Development (Google Cloud Platform, Kubernetes, Docker)
-
 **Languages / Tools / Technologies:** <br/>
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
