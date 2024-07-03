@@ -1,22 +1,27 @@
-**Hi, I’m Jessica (@wleejess) - it's nice to meet you!**
+## Hey, I’m Jessica (@wleejess) - it's nice to meet you!
+_Science at the heart of everything I do._
 
 I'm a former researcher transitioning into software engineering, based in San Francisco.
 - B.S. in Computer Science from Oregon State University<br/>
 - B.S. in NanoEngineering, minor in Chemistry from UC San Diego
 
 **Languages / Tools / Technologies:** <br/>
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 **Projects I've worked on:**
 
-  🧪 Chemystery Resolver: _An extension that shows the chemical structure of the highlighted chemical name (IUPAC or common)._ 
-
-  🍃 Forestry Wellness Check: _A cross-platform application for surveying forest health._ ⟶ [Project Plan](https://skywired.notion.site/CS467-Forest-Wellness-Checkup-cdbd77536d5f48a9bf8fd56416e8a069)
+  🍃 [Forestry Wellness App](https://skywired.notion.site/CS467-Forest-Wellness-Checkup-cdbd77536d5f48a9bf8fd56416e8a069): _A cross-platform mobile application for surveying forest health._ 
 
 --- 
 
