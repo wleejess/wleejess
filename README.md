@@ -1,29 +1,27 @@
 ## Hey, I’m Jessica (@wleejess) - it's nice to meet you!
-_Science at the heart of everything I do._
-
-I'm a former researcher transitioning into software engineering, based in San Francisco.
+_Science at the heart of everything I do._ </br>
+With a foundation in Computer Science and NanoEngineering, and a drive for robust, technical engineering, I specialize in designing solutions that uncover meaningful insights within complex systems.
 - B.S. in Computer Science from Oregon State University<br/>
 - B.S. in NanoEngineering, minor in Chemistry from UC San Diego
 
-**Languages / Tools / Technologies:** <br/>
+## **Languages, Tools, & Technologies:**
 
+**Building and Experimenting**  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white) 
+**Orchestrating Data & Infrastructure**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-**Projects I've worked on:**
-
-  🍃 [Forestry Wellness App](https://skywired.notion.site/CS467-Forest-Wellness-Checkup-cdbd77536d5f48a9bf8fd56416e8a069): _A cross-platform mobile application for surveying forest health._ 
-
---- 
 
 **Let's Connect!**
 
